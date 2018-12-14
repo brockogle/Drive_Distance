@@ -7,7 +7,7 @@ Please follow links below to create a personal Bing Maps Key
 ## Bing Maps API Key
 https://msdn.microsoft.com/en-us/library/ff428642.aspx
 
-Bing Maps API Code of Use:
+Bing Maps API Terms of Use:
 https://www.microsoft.com/en-us/maps/product/terms
 
 Once key is created, copy and paste API key into Notebook1.ipynb file. Do not share this key with anyone.
@@ -18,3 +18,4 @@ The example data contains the addresses of 4 different McDonalds locations, one 
 
 ## Documentation
 https://www.bingmapsportal.com/
+https://msdn.microsoft.com/en-us/library/mt827298.aspx
