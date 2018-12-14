@@ -18,4 +18,5 @@ The example data contains the addresses of 4 different McDonalds locations, one 
 
 ## Documentation
 https://www.bingmapsportal.com/
+
 https://msdn.microsoft.com/en-us/library/mt827298.aspx
