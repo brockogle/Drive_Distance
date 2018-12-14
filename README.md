@@ -14,7 +14,7 @@ Once key is created, copy and paste API key into Notebook1.ipynb file. Do not sh
 
 
 ## Example Data
-The example data contains the addresses of 4 different McDonalds locations, one in each corner of the continental United States (Washington, California, Maine, Florida). These serve as startpoints, and an endpoint of Chicago, IL is 
+The example data contains the addresses of 4 different McDonalds locations, one in each corner of the continental United States (Washington, California, Maine, Florida). These serve as startpoints, and an endpoint of Chicago, IL is specified in Notebook2.ipynb.
 
 ## Documentation
 https://www.bingmapsportal.com/
